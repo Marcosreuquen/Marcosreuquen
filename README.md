@@ -41,7 +41,10 @@ _Sentite libre de comentarme que te parecen mis proyectos, apuntarme consejos o 
 
 - [Weather Web App.](https://marcosreuquen.github.io/WeatherApp)
 - [Notes Web App](https://marcosreuquen.github.io/NotesAppFront)
+<<<<<<< HEAD
 - [Portfolio](https://marcosreuquen.github.io/apx-desafio-m4)
+=======
+>>>>>>> 6e35bd5daf0ffc48e9a4f438ee79368c40bef086
 <!-- BLOG-POST-LIST:END -->
 
 ## - Mis estadísticas de Github
