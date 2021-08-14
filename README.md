@@ -31,7 +31,7 @@ Soy Marcos, estudiante de Programación Web Full Stack en [APX][6]. Actualmente 
 
 ## - Lenguajes favoritos
 
-Mis lenguajes favoritos son **JavaScript** y **Python**. Me gusta trabajar principalmente en _Back-End_ con **NodeJS** y **TypeScript**; y con Python, me gusta trabajar con **Django**. Me siento cómodo trabajando en entornos de **Linux**. Puedo realizar maquetados bajo _Mobile first_ con **HTML5**, **CSS** y **Javascript**.
+Mis lenguajes favoritos son **JavaScript** y **Python**. Me gusta trabajar principalmente en _Back-End_ con **NodeJS** y **TypeScript**; y con Python. Me siento cómodo trabajando en entornos de **Linux**. Puedo realizar maquetados bajo _Mobile first_ con **HTML5**, **CSS** **TS** y **Javascript**.
 
 <br>
 
