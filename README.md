@@ -56,6 +56,5 @@ _Sentite libre de comentarme que te parecen mis proyectos, apuntarme consejos o 
 [2]: https://www.linkedin.com/in/marcos-reuquen-diaz
 [3]: mailto:marcosreuquendiaz@gmail.com
 [4]: https://www.instagram.com/marcosreuquen
-[5]: https://wa.me/541121725039
 [6]: https://apx.school
 [7]: https://marcosreuquen.github.io/apx-desafio-m4
