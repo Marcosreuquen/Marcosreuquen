@@ -39,6 +39,8 @@ Mis lenguajes favoritos son **JavaScript** y **Python**. Me gusta trabajar princ
 
 _Sentite libre de comentarme que te parecen mis proyectos, apuntarme consejos o cosas para mejorar, como también forkearlos y colaborar conmigo para seguir aprendiendo_
 
+- [Chat App](https://chat-app-mr.herokuapp.com/)
+- [Piedra, papel o tijera](https://marcosreuquen.github.io/apx-desafio-m5/)
 - [Weather Web App.](https://marcosreuquen.github.io/WeatherApp)
 - [Notes Web App](https://marcosreuquen.github.io/NotesAppFront)
 - [Portfolio](https://marcosreuquen.github.io/apx-desafio-m4)
