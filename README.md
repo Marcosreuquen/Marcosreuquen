@@ -1,10 +1,14 @@
-[![marcosreuquen](https://media-exp3.licdn.com/dms/image/C5616AQGSH_Knr79ZJw/profile-displaybackgroundimage-shrink_200_800/0/1605112743023?e=1629331200&v=beta&t=zkrqFhJqjPF1o4jTEIvQtDtR68zVQKMHoJqBauTYzj4)][1]
-
 [![Github](https://img.shields.io/badge/Github--333.svg?logo=github&logoWidth=20)](https://github.com/marcosreuquen)
 [![Git](https://img.shields.io/badge/Git--critical.svg?logo=git&logoWidth=20)](https://github.com/marcosreuquen)
 [![Linux](https://img.shields.io/badge/Linux--important.svg?logo=linux&logoWidth=20)](https://github.com/marcosreuquen)
+[![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=javascript&language=typescript)
 [![Typescript](https://img.shields.io/badge/TypeScript--blue.svg?logo=typescript&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=typescript)
 [![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=javascript)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL--blue.svg?logo=PostgreSQL&logoWidth=20)](https://github.com/Marcosreuquen)
+[![Firebase](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/Marcosreuquen)
+[![Heroku](https://img.shields.io/badge/Heroku--blueviolet.svg?logo=Heroku&logoWidth=20)](https://github.com/Marcosreuquen)
+[![CSS3](https://img.shields.io/badge/CSS3--informational.svg?logo=CSS3&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=css)
+[![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=html)
 [![Python](https://img.shields.io/badge/Python--blueviolet.svg?logo=python&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=python)
 
 [![Mail](https://img.shields.io/badge/Mail--981E32.svg?logo=gmail&logoWidth=20)][3]
