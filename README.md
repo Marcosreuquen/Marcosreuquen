@@ -1,14 +1,17 @@
 <br>
 Hola 👋🏻,
 
-Soy Marcos, estudiante de Programación Web Full Stack en [APX][6]. Actualmente en la búsqueda de mi primer empleo IT.
+Soy **Marcos**, _**Desarrollador Web Full Stack**_ en constante formación,
+autodidácta y con muchas ganas de enfrentar nuevos
+desafíos que me pongan a prueba y me lleven a seguir
+aprendiendo.
 <br>
 <br>
 
 # - Hablemos!
 
 - Web: [marcosreuquen][7]
-- LinkedIn: [linkedin.com//marcosreuquen][2]
+- Linkedin: [in/marcos-reuquen-diaz][2]
 - Mail: [marcosreuquendiaz@gmail.com][3]
   <br>
   <br>
@@ -36,6 +39,10 @@ _Frontend:_
 [![CSS3](https://img.shields.io/badge/CSS3--informational.svg?logo=CSS3&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=css)
 [![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=html)
 
+**Aprendiendo:**
+
+[![React](https://img.shields.io/badge/React--blue.svg?logo=React&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=React)
+
 _Bases de datos:_
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL--blue.svg?logo=PostgreSQL&logoWidth=20)](https://github.com/Marcosreuquen)
@@ -47,15 +54,18 @@ _Deploy:_
 <br>
 <br>
 
-# - Deploys y proyectos
+# - Proyectos
 
 _Sentite libre de comentarme que te parecen mis proyectos, apuntarme consejos o cosas para mejorar, como también forkearlos y colaborar conmigo para seguir aprendiendo_
 
+- [Find your pet](https://pets-app-mr.herokuapp.com/)
 - [Chat App](https://chat-app-mr.herokuapp.com/)
 - [Piedra, papel o tijera](https://marcosreuquen.github.io/apx-desafio-m5/)
-- [Weather Web App.](https://marcosreuquen.github.io/WeatherApp)
-- [Notes Web App](https://marcosreuquen.github.io/NotesAppFront)
 - [Portfolio](https://marcosreuquen.github.io/apx-desafio-m4)
+
+**Colab - Open Source:**
+
+- [APX-BOT](https://github.com/apx-bot-team/apx-bot)
   <br>
   <br>
 
@@ -66,9 +76,6 @@ _Sentite libre de comentarme que te parecen mis proyectos, apuntarme consejos o 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosreuquen&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosreuquen&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcosreuquen&theme=dracula)
-<a href="https://github.com/marcosreuquen/marcosreuquen">
-<br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosreuquen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="marcosreuquen's GitHub Stats" />
-</a>
 <br>
 <br>
 
