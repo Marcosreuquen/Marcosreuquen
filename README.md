@@ -5,6 +5,7 @@ Soy **Marcos**, _**Desarrollador Web Full Stack**_ en constante formación,
 autodidácta y con muchas ganas de enfrentar nuevos
 desafíos que me pongan a prueba y me lleven a seguir
 aprendiendo.
+Estudiando en [APX][6]!
 <br>
 <br>
 
