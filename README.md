@@ -19,6 +19,30 @@ Estudiando en [APX][6]!
 
 # - Lenguajes favoritos & entornos
 
+_Backend:_
+
+[![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=javascript&language=typescript)
+[![Typescript](https://img.shields.io/badge/TypeScript--blue.svg?logo=typescript&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=typescript)
+[![Python](https://img.shields.io/badge/Python--blueviolet.svg?logo=python&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=python)
+
+_Frontend:_
+
+[![React](https://img.shields.io/badge/React--blue.svg?logo=React&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=React)
+[![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=javascript)
+[![CSS3](https://img.shields.io/badge/CSS3--informational.svg?logo=CSS3&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=css)
+[![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=html)
+
+_Bases de datos:_
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL--blue.svg?logo=PostgreSQL&logoWidth=20)](https://github.com/Marcosreuquen)
+[![Firebase](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/Marcosreuquen)
+
+_Hosting:_
+
+[![Heroku](https://img.shields.io/badge/Heroku--blueviolet.svg?logo=Heroku&logoWidth=20)](https://github.com/Marcosreuquen)
+[![Firebase](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/Marcosreuquen)
+[![Vercel](https://img.shields.io/badge/Vercel--white.svg?logo=Vercel&logoWidth=20)](https://github.com/Marcosreuquen)
+
 _Control de versiones:_
 
 [![Github](https://img.shields.io/badge/Github--333.svg?logo=github&logoWidth=20)](https://github.com/marcosreuquen)
@@ -28,30 +52,6 @@ _OS favorito:_
 
 [![Linux](https://img.shields.io/badge/Linux--important.svg?logo=linux&logoWidth=20)](https://github.com/marcosreuquen)
 
-_Backend:_
-
-[![Node.js](https://img.shields.io/badge/Node.js--brightgreen.svg?logo=Node.js&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=javascript&language=typescript)
-[![Typescript](https://img.shields.io/badge/TypeScript--blue.svg?logo=typescript&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=typescript)
-[![Python](https://img.shields.io/badge/Python--blueviolet.svg?logo=python&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=python)
-
-_Frontend:_
-
-[![JavaScript](https://img.shields.io/badge/JavaScript--yellow.svg?logo=javaScript&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=javascript)
-[![CSS3](https://img.shields.io/badge/CSS3--informational.svg?logo=CSS3&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=css)
-[![HTML5](https://img.shields.io/badge/HTML5--critical.svg?logo=HTML5&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=html)
-
-**Aprendiendo:**
-
-[![React](https://img.shields.io/badge/React--blue.svg?logo=React&logoWidth=20)](https://github.com/Marcosreuquen?tab=repositories&q=&type=&language=React)
-
-_Bases de datos:_
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL--blue.svg?logo=PostgreSQL&logoWidth=20)](https://github.com/Marcosreuquen)
-[![Firebase](https://img.shields.io/badge/Firebase--yellow.svg?logo=Firebase&logoWidth=20)](https://github.com/Marcosreuquen)
-
-_Deploy:_
-
-[![Heroku](https://img.shields.io/badge/Heroku--blueviolet.svg?logo=Heroku&logoWidth=20)](https://github.com/Marcosreuquen)
 <br>
 <br>
 
