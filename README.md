@@ -57,12 +57,9 @@ _OS favorito:_
 
 # - Proyectos
 
-_Sentite libre de comentarme que te parecen mis proyectos, apuntarme consejos o cosas para mejorar, como también forkearlos y colaborar conmigo para seguir aprendiendo_
-
-- [Find your pet](https://pets-app-mr.herokuapp.com/)
+- [Find your pet](https://petsapp-323d0.web.app/)
 - [Chat App](https://chat-app-mr.herokuapp.com/)
 - [Piedra, papel o tijera](https://marcosreuquen.github.io/apx-desafio-m5/)
-- [Portfolio](https://marcosreuquen.github.io/apx-desafio-m4)
 
 **Colab - Open Source:**
 
