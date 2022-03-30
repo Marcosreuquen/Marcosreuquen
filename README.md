@@ -6,9 +6,9 @@ I am <b>Marcos</b>, i'm a <b>Fullstack developer</b> and a passionate and curiou
 
 # Contact
 
-<ul style="display:flex; flex-direction: column; align-items: center; list-style:none; gap: 4px; ">
+<ul style="display:flex; flex-direction: column; align-items: center; list-style:none !important; gap: 4px; ">
 <li>
-<a style="display: flex; align-items: center; gap: 2px; color: white; background-color: #41377A; padding: 4px 6px; border-radius: 4px; cursor: pointer;">
+<a href="https://portfolio-marcosreuquen.vercel.app" style="display: flex; align-items: center; gap: 2px; color: white; background-color: #41377A; padding: 4px 6px; border-radius: 4px; cursor: pointer;">
   <svg height="30" widht="30" viewBox="0 0 90 90" fill="none"><path d="M30 33.75L41.25 45 30 56.25M48.75 56.25H60" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path><path d="M60 15H30c-8.284 0-15 6.716-15 15v30c0 8.284 6.716 15 15 15h30c8.284 0 15-6.716 15-15V30c0-8.284-6.716-15-15-15z" stroke="#fff" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"></path></svg>
   <span>
     <strong>
