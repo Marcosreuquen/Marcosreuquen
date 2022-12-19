@@ -1,16 +1,11 @@
 # Hi! 👋🏻
-
-<p align="center" style="display:flex; flex-direction: row; width: 100%; align-items: center;  justify-content: center; gap: 10px;">
-  <a href="https://drive.google.com/drive/folders/1iiyOu9-aqWo85JR8LJTHaQ_8D1HLfO9h" >
-  Download Resume
-  </a>
-  <b>-</b>
-  <a href="https://portfolio-marcosreuquen.vercel.app" >
+<p>
+  <a href="https://marcosreuquen.co" >
   Visit Portfolio
   </a>
 </p>
 
-# Contact
+## Contact
 
 <div align="center" style="display:flex; flex-direction: column; align-items: center; list-style:none !important; gap: 4px; ">
 
