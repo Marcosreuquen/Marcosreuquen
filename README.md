@@ -1,12 +1,13 @@
-# Hi! 👋🏻
+# Hi there! 👋 I'm Marcos
 
-## Contact
+> Welcome to my GitHub profile! I'm a full-stack developer working primarily with Python (FastAPI), Node.js and TypeScript. I enjoy building APIs and working on open-source projects.
 
-<div align="center" style="display:flex; flex-direction: column; align-items: center; list-style:none !important; gap: 4px; ">
-  <a href="mailto:marcosreuquendiaz@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-reuquen-diaz" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## 🚀 Projects:
+- [**Node Project Manager**](https://marketplace.visualstudio.com/items?itemName=marcosdiaz.node-project-manager) – A VS Code extension to simplify Node.js project management.
+- [**Keap API Client**](https://www.npmjs.com/package/keap-client) – TypeScript client for seamless integration with the Keap CRM.
+- [**MFA Microservice**](https://github.com/marcosdiaz/mfa-microservice) - A microservice for multifactor authentication using SQLModel and FastAPI.
+
+## 🌐 Connect with Me:
+- **Portfolio:** [marcosdiaz.dev](https://marcosdiaz.dev)
+- **LinkedIn:** [Marcos Díaz](https://www.linkedin.com/in/marcos-reuquen-diaz/)
+- **Email:** [marcosreuquendiaz@gmail.com](mailto:marcosreuquendiaz@gmail.com)
