@@ -5,7 +5,7 @@
 ## 🚀 Projects:
 - [**Node Project Manager**](https://marketplace.visualstudio.com/items?itemName=marcosdiaz.node-project-manager) – A VS Code extension to simplify Node.js project management.
 - [**Keap API Client**](https://www.npmjs.com/package/keap-client) – TypeScript client for seamless integration with the Keap CRM.
-- [**MFA Microservice**](https://github.com/marcosdiaz/mfa-microservice) - A microservice for multifactor authentication using SQLModel and FastAPI.
+- [**MFA Microservice**](https://github.com/marcosreuquen/mfa-microservice) - A microservice for multifactor authentication using SQLModel and FastAPI.
 
 ## 🌐 Connect with Me:
 - **Portfolio:** [marcosdiaz.dev](https://marcosdiaz.dev)
