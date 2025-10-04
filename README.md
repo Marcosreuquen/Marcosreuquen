@@ -1,13 +1,7 @@
 # Hi there! 👋 I'm Marcos
 
-> Welcome to my GitHub profile! I'm a full-stack developer working primarily with Python (FastAPI), Node.js and TypeScript. I enjoy building APIs and working on open-source projects.
+> I'm a Software Developer with 4+ years of experience building scalable backend systems and full-stack applications. I enjoy designing high-performance APIs, architecting cloud-ready solutions, and delivering clean, maintainable code that solves real problems. 
 
-## 🚀 Projects:
-- [**Node Project Manager**](https://marketplace.visualstudio.com/items?itemName=marcosdiaz.node-project-manager) – A VS Code extension to simplify Node.js project management.
-- [**Keap API Client**](https://www.npmjs.com/package/keap-client) – TypeScript client for seamless integration with the Keap CRM.
-- [**MFA Microservice**](https://github.com/marcosdiaz/mfa-microservice) - A microservice for multifactor authentication using SQLModel and FastAPI.
-
-## 🌐 Connect with Me:
-- **Portfolio:** [marcosdiaz.dev](https://marcosdiaz.dev)
-- **LinkedIn:** [Marcos Díaz](https://www.linkedin.com/in/marcos-reuquen-diaz/)
+Check out my projects below — and feel free to connect with me at [**marcosdiaz.dev**](https://marcosdiaz.dev?utm_source=github&utm_medium=profile&utm_campaign=landing)
+- **LinkedIn:** [Marcos Díaz](https://marcosdiaz.dev/linkedin?utm_source=github&utm_medium=profile&utm_campaign=linkedin)
 - **Email:** [marcosreuquendiaz@gmail.com](mailto:marcosreuquendiaz@gmail.com)
